@@ -2,7 +2,7 @@
 layout: default
 title: 3. Compilation
 nav_order: 4
-permalink: /
+permalink: /compilation
 ---
 
 # 3. Compilation
