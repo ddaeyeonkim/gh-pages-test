@@ -184,7 +184,7 @@ in
 
 - 목적 프로그램
 
-<img src="img/i5.png" width="600">
+<img src="./img/i5.png" width="600">
 
 line 2. ‘&’ 을 메모리에 로드.  
 line 3. 1 [SB] 주소에 저장 - `c := ‘&’`  
@@ -193,7 +193,7 @@ line 5. 1 을 메모리에 로드.
 line 6. add 명령어를 수행.  
 line 7. 0 [SB] 주소에 저장 - `n := n + 1`
 
-<img src="img/i3.png" width="600">
+<img src="docs/Chapter3/img/i3.png" width="600">
 
 (2) 변수 n 에 0 [SB] 주소를 할당한다. 이후에 찾을 수 있도록 해당 주소를 노드 (2) 에 저장한다.
 
