@@ -41,7 +41,7 @@ permalink: /compilation
 
 <!-- <img src="img/i1.png" width="400"> -->
 
-![](img/i1.png)
+![](img/i1.png){: width="400" }
 
 1. 구문 분석이 정상적으로 완료되면 **AST 를 생성**한다. 실패하는 경우 에러 리포트를 생성한다.
 2. 문맥 분석이 정상적으로 완료되면 **decorated AST 를 생성**한다. 실패하는 경우 에러 리포트를 생성한다.
